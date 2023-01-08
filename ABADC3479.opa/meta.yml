@@ -1,0 +1,19 @@
+id: ABADC3479
+title: Expeditious Activity Torma Offering
+type: translation
+pechas:
+- IE6BEF2AD
+- IB8C5394C
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:09:48.724952
+  last_modified_at: 2023-01-04 12:09:48.724958
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IE6BEF2AD/B9D5: '7317'
+  IB8C5394C/859F: '7317'
